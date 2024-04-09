@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+=================== Screenshot ========================
+
+![image](https://github.com/realsachinr/BMI-Calculator/assets/154586309/dd642640-c4f2-4576-acd6-e0b9eee8e2d4)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
