@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  margin-bottom: 20px;
+}
+.input-container {
+  gap: 20px;
+  display: flex;
+}
+.App {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, rgb(136, 136, 255), violet);
+}
+
+.input-box {
+  padding: 5px;
+  border-radius: 5px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 10px;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px 25px;
+  box-shadow: 2px 2px 20px black;
+}
+
+.btn-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  margin: 20px 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+}
+
+.btn:hover {
+  font-weight: bold;
+  background-color: rgb(235, 235, 235);
+}
